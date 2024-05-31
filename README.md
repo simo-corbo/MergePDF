@@ -20,7 +20,7 @@ This script merges all PDF files in a given directory into a single PDF file nam
 
 Clone this repository to your local machine using:
 ```bash
-git clone <repository-url>
+git clone https://github.com/simo-corbo/MergePDF.git
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -93,7 +93,3 @@ To merge PDF files in the directory `/home/user/pdf_files`, run:
 ```bash
 python mergePdf.py --path /home/user/pdf_files
 ```
-
-## Authors
-
-- Your Name - [Your GitHub](https://github.com/simo-corbo)
